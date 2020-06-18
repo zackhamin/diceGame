@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">diceGame</string>
+    <string name="Random_Number_text">0</string>
+    <string name="roll_button_text">Button</string>
+</resources>
